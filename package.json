@@ -1,12 +1,12 @@
 {
   "name": "re-require",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Delete module from require cache and re-require it",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["require", "cache"],
+  "author": "Adam K Dean <adamkdean@googlemail.com>",
+  "license": "MIT"
 }
